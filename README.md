@@ -2,11 +2,11 @@
 
 
 
-!\[Last Commit](https://img.shields.io/github/last-commit/Ankit17-99/cse103-lab-LAB3)
+![Last Commit](https://img.shields.io/github/last-commit/Ankit17-99/cse103-lab-LAB3)
 
-!\[Language](https://img.shields.io/badge/language-Python-blue)
+![Language](https://img.shields.io/badge/language-Python-blue)
 
-!\[Status](https://img.shields.io/badge/status-active-brightgreen)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 
 
