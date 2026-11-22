@@ -2,7 +2,7 @@
 
 
 
-!\[Last Commit](https://img.shields.io/github/last-commit/USERNAME/cse103-lab-LAB3)
+!\[Last Commit](https://img.shields.io/github/last-commit/Ankit17-99/cse103-lab-LAB3)
 
 !\[Language](https://img.shields.io/badge/language-Python-blue)
 
